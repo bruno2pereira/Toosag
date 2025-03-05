@@ -13,7 +13,6 @@ Welcome to **Toosag.com**!
 ## 🛠 Report Bugs
 Found a problem or bug? Your help is essential to improve the platform!
 
-- Open an issue [add link to GitHub/GitLab if applicable]
-- Send an email to [your support email]
+- Open an issue [*](https://github.com/bruno2pereira/Toosag/issues)
 
 We appreciate your feedback and support! 🚀
